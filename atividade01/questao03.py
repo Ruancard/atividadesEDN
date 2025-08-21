@@ -1,10 +1,10 @@
-##variaveis de medida
+#Variaveis
 comprimento = 12
 largura = 14
 altura = 20
 
-##calculando volume
+#Calculando volume
 volume = comprimento * largura * altura
 
-##resultado
+#Resultado
 print(f"O volume da caixa é: {volume} cm³")

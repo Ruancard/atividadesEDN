@@ -7,3 +7,8 @@ media = (soma_notas / len(notas))
 
 #Resultado
 print(f"A média das notas é: {media:.2f}")
+
+if media >= 7.0:
+    print("aprovado")
+else:
+    print("reprovado")
